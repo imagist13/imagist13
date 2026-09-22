@@ -14,25 +14,17 @@
 - 🎐 Enjoy anime in spare time
 - ✉️ Contact: ideast@gmail.com
 
-## ⚡ Currently
-- 🔭 Working on AI‑Agent related side‑projects
-- 📚 Learning Agent workflow & tool‑calling
-- 💬 Happy to discuss open‑source & agent development
-
 ## 🛠 Tech Stack
 <div align="left">
 <img src="https://skillicons.dev/icons?i=go,python,ts,react,nextjs,postgres,redis,docker,git,fastapi,langchain&perline=6" />
 </div>
 
-### 📋 Quick Overview
-[![GitHub followers](https://img.shields.io/github/followers/imagist13?style=flat-square)](https://github.com/imagist13)
-[![GitHub stars](https://img.shields.io/github/stars/imagist13?style=flat-square)](https://github.com/imagist13)
+## 📊 GitHub Stats
+<div align="center">
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imagist13&show_icons=true&theme=default_repocard&hide_border=true&bg_color=00000000&title_color=FF6F91&icon_color=FF6F91&text_color=444444"/>
 
-<br>
-<p align="center">
-———— ✧ Code & Anime · Agent exploration in progress ✧ ————
-</p>
-<br>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imagist13&layout=compact&theme=default_repocard&hide_border=true&bg_color=00000000&title_color=FF6F91&text_color=444444"/>
+</div>
 
 ## 🔥 Streak
 <div align="center">
