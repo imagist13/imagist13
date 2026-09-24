@@ -1,5 +1,6 @@
 <div align="center">
-<img src="Hero.jpg" width="700" height="170" alt="minimal anime" style="border-radius:10px;"/>
+<img src="./public/Hero.jpg" width="700" alt="minimal anime" style="border-radius:10px;"/>
+
 # 👋 Hi, I'm imagist13
 <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&pause=1200&color=FF6F91&center=true&vCenter=true&width=500&height=42&lines=Hello+World;AI+Agent;Full+Stack;Keep+Learning;Open+Source+Builder" alt="typing svg"/>
 </div>
@@ -13,8 +14,9 @@
 
 ## 🛠 Tech Stack
 <div align="left">
-<img src="https://skillicons.dev/icons?i=go,python,ts,js,nodejs,react,nextjs,postgres,redis,docker,git,fastapi,langchain,hadoop&perline=6" />
+<img src="https://skillicons.dev/icons?i=go,python,ts,js,nodejs,react,nextjs,postgres,redis,docker,git,fastapi,rust&perline=6" />
 </div>
+
 
 ## 🔥 Streak
 <div align="center">
@@ -26,3 +28,4 @@
 <div align="center">
 ✨ Thanks for visiting ✨
 </div>
+
