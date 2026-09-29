@@ -20,10 +20,11 @@
 
 ## 🔥 Streak
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=imagist13&theme=default&hide_border=true&background=00000000&stroke=FF6F91&ring=FF6F91&fire=FF6F91" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=imagist13&theme=default&hide_border=true&background=00000000&stroke=FF6F91&ring=FF6F91&fire=FF6F91&cache_bust=1" alt="streak"/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=imagist13&color=ff6f91&style=flat-square" alt="profile views"/>
 </div>
+
 
 <div align="center">
 ✨ Thanks for visiting ✨
